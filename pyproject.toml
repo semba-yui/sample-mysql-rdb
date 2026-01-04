@@ -26,7 +26,7 @@ mkdocs-mermaid2-plugin = "^1.2.1"
 mkdocs-table-reader-plugin = "^3.1.0"
 mkdocs-exclude = "^1.0.2"
 pymarkdownlnt = "^0.9.29"
-pymdown-extensions = "^10.14.3"
+pymdown-extensions = "^10.16.1"
 mkdocs-awesome-nav = "^3.1.1"
 
 [tool.poetry.scripts]
