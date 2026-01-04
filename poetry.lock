@@ -1013,14 +1013,14 @@ typing-extensions = ">=4.7.0"
 
 [[package]]
 name = "pymdown-extensions"
-version = "10.15"
+version = "10.20"
 description = "Extension pack for Python Markdown."
 optional = false
-python-versions = ">=3.8"
+python-versions = ">=3.9"
 groups = ["main", "dev"]
 files = [
-    {file = "pymdown_extensions-10.15-py3-none-any.whl", hash = "sha256:46e99bb272612b0de3b7e7caf6da8dd5f4ca5212c0b273feb9304e236c484e5f"},
-    {file = "pymdown_extensions-10.15.tar.gz", hash = "sha256:0e5994e32155f4b03504f939e501b981d306daf7ec2aa1cd2eb6bd300784f8f7"},
+    {file = "pymdown_extensions-10.20-py3-none-any.whl", hash = "sha256:ea9e62add865da80a271d00bfa1c0fa085b20d133fb3fc97afdc88e682f60b2f"},
+    {file = "pymdown_extensions-10.20.tar.gz", hash = "sha256:5c73566ab0cf38c6ba084cb7c5ea64a119ae0500cce754ccb682761dfea13a52"},
 ]
 
 [package.dependencies]
@@ -1401,4 +1401,4 @@ files = [
 [metadata]
 lock-version = "2.1"
 python-versions = ">=3.13"
-content-hash = "e5b92660f4e2d8f9fcdc5ccf0a14367ce3577ee41dabc3331a58407bbd943700"
+content-hash = "be3f6d1f45a0ef5cb16364621e50d0b3e7f11e8f513140386ee212e5c58c5e4d"
