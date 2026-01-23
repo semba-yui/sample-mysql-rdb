@@ -37,7 +37,7 @@
   },
   "homepage": "https://github.com/semba-yui/sample-mysql-rdb#readme",
   "devDependencies": {
-    "@liam-hq/cli": "^0.5.5",
+    "@liam-hq/cli": "^0.7.24",
     "husky": "^9.1.7",
     "lint-staged": "^15.5.2",
     "remark": "^15.0.1",
